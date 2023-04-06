@@ -4,8 +4,7 @@ This experiment demonstrates how to use AWS services to convert speech from an a
 ## Prerequisites
 Before starting, you will need:
 * An AWS account
-* AWS CLI installed on your machine
-* An S3 bucket to store the audio files
+* Basic knowledge of AWS services like S3, Lambda, and CloudWatch
 
 ## Architecture
 
