@@ -1,18 +1,19 @@
 # Serverless Speech-to-Text with AWS Transcribe and S3 Event Trigger using Lambda and CloudWatch
 This experiment demonstrates how to use AWS services to convert speech from an audio file to text using AWS Transcribe and S3 Event Trigger with Lambda and CloudWatch.
 
-##Prerequisites
+## Prerequisites
 Before starting, you will need:
-==========================================
 * An AWS account
 * AWS CLI installed on your machine
 * An S3 bucket to store the audio files
 
-##Architecture
+## Architecture
+
 The architecture of the experiment is as follows:
+<br></br>
 ![ProfilePic](https://user-images.githubusercontent.com/100104826/230324414-172cfef5-e27a-4716-9e12-c7831570dedb.png)
 
-##How to run the experiment
+## How to run the experiment
 To run this experiment, follow these steps:
 1. Clone or download the GitHub repository containing the source code for the project.
 2. Navigate to the speech-to-text-lambda folder in the project.
@@ -36,5 +37,5 @@ To run this experiment, follow these steps:
     * Click on "Save"
 15. Once the transcription job is complete, you can view the transcribed text in the AWS Transcribe console.
 
-##Conclusion
+## Conclusion
 In this experiment, we've demonstrated how to use AWS Transcribe and S3 Event Trigger with Lambda and CloudWatch to convert speech from an audio file to text. This could be useful for a variety of applications, such as transcribing lectures, podcasts, or interviews.
