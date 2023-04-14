@@ -38,3 +38,5 @@ To run this experiment, follow these steps:
 
 ## Conclusion
 In this experiment, we've demonstrated how to use AWS Transcribe and S3 Event Trigger with Lambda and CloudWatch to convert speech from an audio file to text. This could be useful for a variety of applications, such as transcribing lectures, podcasts, or interviews.
+
+Linkedin Article Link : https://www.linkedin.com/pulse/serverless-speech-to-text-aws-transcribe-s3-event-using-konathala
